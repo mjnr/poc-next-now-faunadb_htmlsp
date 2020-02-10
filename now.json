@@ -1,7 +1,9 @@
 {
+  "version": 2,
   "build": {
-    "env": {
-      "FAUNA_DB": "@faunadb-htmlsp"
-    }
+    "env": {}
+  },
+  "env": {
+    "FAUNA_DB": "@faunadb-htmlsp"
   }
 }
